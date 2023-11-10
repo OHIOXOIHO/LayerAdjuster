@@ -1,6 +1,6 @@
 --- Script Info ---
 script_name = 'Layer Adjust'
-script_description = 'Increase and Decrease the layers of selected lines without ruining them.'
+script_description = 'Increase and Decrease the layer number of selected lines without ruining their order.'
 script_author = 'OHIOXOIHO'
 script_version = '1.2'
 
