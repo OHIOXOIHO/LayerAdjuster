@@ -1,2 +1,2 @@
 # LayerAdjuster
-Increase and Decrease the layers of selected lines without ruining them in Aegisub.
+Automation script for Aegisub. Increase and Decrease the layer number of selected lines without ruining their order.
